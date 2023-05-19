@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c44f4d9.css",
-    "main.js": "/static/js/main.505a7bac.js",
-    "static/js/787.a174f9e5.chunk.js": "/static/js/787.a174f9e5.chunk.js",
-    "static/media/Inter-Bold.woff": "/static/media/Inter-Bold.1c3dfbb05cd4ae02710e.woff",
-    "static/media/Inter-Black.woff": "/static/media/Inter-Black.e258f99875304915b846.woff",
-    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8398b3762d7b06fc3b8c.woff",
-    "static/media/img.svg": "/static/media/img.ff2a0d409c14819260b0.svg",
-    "static/media/eye-active.svg": "/static/media/eye-active.93ed20fe8b18f7ed772a.svg",
-    "static/media/eye.svg": "/static/media/eye.1e033d8501f85bfd2163.svg",
-    "index.html": "/index.html",
-    "static/media/selector-active.svg": "/static/media/selector-active.633cf70ed304c885d68f.svg",
-    "static/media/selector.svg": "/static/media/selector.40dc10876101ac38240b.svg",
-    "main.1c44f4d9.css.map": "/static/css/main.1c44f4d9.css.map",
-    "main.505a7bac.js.map": "/static/js/main.505a7bac.js.map",
-    "787.a174f9e5.chunk.js.map": "/static/js/787.a174f9e5.chunk.js.map"
+    "main.css": "/calculator/static/css/main.a40e4629.css",
+    "main.js": "/calculator/static/js/main.aaddab11.js",
+    "static/js/787.a174f9e5.chunk.js": "/calculator/static/js/787.a174f9e5.chunk.js",
+    "static/media/Inter-Bold.woff": "/calculator/static/media/Inter-Bold.1c3dfbb05cd4ae02710e.woff",
+    "static/media/Inter-Black.woff": "/calculator/static/media/Inter-Black.e258f99875304915b846.woff",
+    "static/media/Inter-Regular.woff": "/calculator/static/media/Inter-Regular.8398b3762d7b06fc3b8c.woff",
+    "static/media/img.svg": "/calculator/static/media/img.ff2a0d409c14819260b0.svg",
+    "static/media/eye-active.svg": "/calculator/static/media/eye-active.93ed20fe8b18f7ed772a.svg",
+    "static/media/eye.svg": "/calculator/static/media/eye.1e033d8501f85bfd2163.svg",
+    "index.html": "/calculator/index.html",
+    "static/media/selector-active.svg": "/calculator/static/media/selector-active.633cf70ed304c885d68f.svg",
+    "static/media/selector.svg": "/calculator/static/media/selector.40dc10876101ac38240b.svg",
+    "main.a40e4629.css.map": "/calculator/static/css/main.a40e4629.css.map",
+    "main.aaddab11.js.map": "/calculator/static/js/main.aaddab11.js.map",
+    "787.a174f9e5.chunk.js.map": "/calculator/static/js/787.a174f9e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c44f4d9.css",
-    "static/js/main.505a7bac.js"
+    "static/css/main.a40e4629.css",
+    "static/js/main.aaddab11.js"
   ]
 }
