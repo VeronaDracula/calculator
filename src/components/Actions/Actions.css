@@ -1,0 +1,17 @@
+.actions {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.06), 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.actions__container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    align-items: center;
+    gap: 8px;
+    padding: 4px;
+}
+
+.actions__container--inactive {
+    pointer-events: none;
+}

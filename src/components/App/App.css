@@ -1,0 +1,17 @@
+.page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+    min-height: 100vh;
+    font-style: normal;
+    font-family: 'Inter', sans-serif;
+    background-color: var(--main-bg-color);
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+*{
+    box-sizing: border-box;
+}

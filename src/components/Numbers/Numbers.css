@@ -1,0 +1,29 @@
+.numbers {
+    padding: 4px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.06), 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    width: 100%;
+}
+
+.numbers__main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 8px;
+    margin-bottom: 8px;
+}
+
+.numbers__main--inactive {
+    pointer-events: none;
+}
+
+.numbers__wrapper {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 8px;
+}
+
+.numbers__wrapper--inactive {
+    pointer-events: none;
+}
+

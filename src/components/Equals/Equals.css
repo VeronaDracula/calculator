@@ -1,0 +1,37 @@
+.equals {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.06), 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    width: 260px;
+    height: 72px;
+    padding: 4px;
+}
+
+.equals__container {
+    width: 100%;
+    height: 100%;
+}
+
+.equals__container--inactive {
+    pointer-events: none;
+}
+
+.equals__btn {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 15px;
+    color: #FFFFFF;
+    background: #5D5FEF;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.equals__btn:hover {
+    cursor: pointer;
+}
+
+.equals__btn--inactive {
+    pointer-events: none;
+}

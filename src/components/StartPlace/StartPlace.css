@@ -1,0 +1,6 @@
+.start-place {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding-top: 68px;
+}

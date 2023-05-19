@@ -1,0 +1,38 @@
+.field {
+    height: 460px;
+    border: 2px dashed #C4C4C4;
+    border-radius: 6px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.info__img {
+    width: 21px;
+    height: 21px;
+    background: transparent center no-repeat url(../../images/img.svg);
+    margin-bottom: 12px;
+}
+
+.info__main-text {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #5D5FEF;
+    margin: 0 0 4px 0;
+}
+
+.info__text {
+    text-align: center;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #6B7280;
+    max-width: 106px;
+    margin: 0;
+}
